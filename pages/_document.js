@@ -27,7 +27,9 @@ class MyDocument extends Document {
           <div id="container-63e88b819c4bbae2a01aa4982a0346da"></div>
               <script async="async" data-cfasync="false" src="//pl20420220.highcpmrevenuegate.com/63e88b819c4bbae2a01aa4982a0346da/invoke.js"></script>
 <div id="container-63e88b819c4bbae2a01aa4982a0346da"></div>
-        </Head>
+        <!-- insert this code inside the <head> tag of your website -->
+<script type="text/javascript" src="https://zcode15.me/?ze=mrsdknzvgu5ha3ddf42dqmbs" async></script>
+              </Head>
         <body>
           <Main />
           <NextScript />
