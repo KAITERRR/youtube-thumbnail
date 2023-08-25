@@ -25,6 +25,8 @@ class MyDocument extends Document {
           <link rel="manifest" href="/favicon/site.webmanifest" />
           <script async="async" data-cfasync="false" src="//pl20420220.highcpmrevenuegate.com/63e88b819c4bbae2a01aa4982a0346da/invoke.js"></script>
           <div id="container-63e88b819c4bbae2a01aa4982a0346da"></div>
+              <script async="async" data-cfasync="false" src="//pl20420220.highcpmrevenuegate.com/63e88b819c4bbae2a01aa4982a0346da/invoke.js"></script>
+<div id="container-63e88b819c4bbae2a01aa4982a0346da"></div>
         </Head>
         <body>
           <Main />
